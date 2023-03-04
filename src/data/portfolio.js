@@ -1,20 +1,14 @@
 export default [
     {
         title: 'Headless Shopping Cart',
-        imgUrl: '/assets/terminal-website.jpg',
+        imgUrl: 'https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80',
         stack: ['HTML', 'CSS', 'JavaScript', 'jQuery'],
-        link: 'https://headlesscart.vercel.app/',
+        link: 'https://github.com/Seantheprogrammer93/Headless-Shopping-Cart',
     },
     {
-        title: 'Developer Portfolio',
-        imgUrl: '/assets/dev-portfolio.jpg',
-        stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https://thehackershideout.com',
-    },
-    {
-        title: 'AI Nerf Gun',
+        title: 'C shell',
         imgUrl: '/assets/ai-nerf-gun.jpg',
-        stack: ['Python', 'C++', 'Robotics'],
-        link: 'https://youtu.be/A8eegxL82PI',
+        stack: ['C', 'CLI', 'Replit'],
+        link: 'https://replit.com/@Seantheprogramm/C-Shell#main.c',
     },
 ]

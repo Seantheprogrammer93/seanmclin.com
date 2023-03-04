@@ -2,7 +2,7 @@ import React from 'react';
 
 function PortfolioItem({ title, imgUrl, stack, link }) {
   return (
-    <div className="border-2 border-stone-900 rounded-md overflow-hidden">
+    <div className="border-2 border-stone-900 rounded-md overflow-hidden hover:scale-110 hover:m-2">
       <a
         href={link}
         target="_blank"
