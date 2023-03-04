@@ -1,9 +1,9 @@
 export default [
     {
         year: 'Today',
-        title: 'Headless Shopping Cart',
-        duration: '3 weeks',
-        details: 'A headless shopping cart built with HTML, CSS, JavaScript, and jQuery.',
+        title: 'Opening up a new chapter in my life',
+        duration: '',
+        details: 'In pursuit of a career in software development or IT',
     },
     {
         year: '2020',
