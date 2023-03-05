@@ -7,7 +7,7 @@ function Intro() {
       <p className="text-base md:text-xl mb-3 font-medium">Software Developer & IT Expert</p>
       <p className="text-small max-w-xl mb-6 font-bold">
         I'm passionate about building great software and learning different and new technologies.
-        This site was built from scratch using ReactJS, TailwindCSS and Vite.
+        This site was built from scratch using ReactJS, TailwindCSS, Vite, and hosted on Vercel.
       </p>
     </div>
   )
