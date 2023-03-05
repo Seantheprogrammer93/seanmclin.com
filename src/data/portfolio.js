@@ -11,4 +11,8 @@ export default [
         stack: ['C', 'Algorithms', 'Replit'],
         link: 'https://replit.com/@Seantheprogramm/C-Shell#main.c',
     },
+    {
+        title: 'Coming Soon!',
+        imgUrl: 'https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
+    },
 ]
