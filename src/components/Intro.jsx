@@ -8,8 +8,6 @@ function Intro() {
       <p className="text-small max-w-xl mb-6 font-bold">
         I'm passionate about building great software and learning different and new technologies.
         This site was built from scratch using ReactJS, TailwindCSS, Vite, and hosted on Vercel.
-        <h2 className="text-md mb-1 mt-4 font-bold">Hosted OpenVPN Access Server credentials:</h2>
-        <p className="text-small max-w-xl font-bold text-red-500">Username: beta-user, Password: test123</p>
       </p>
     </div>
   )
