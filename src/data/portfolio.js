@@ -3,7 +3,7 @@ export default [
         title: 'Headless Shopping Cart',
         imgUrl: 'https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80',
         stack: ['HTML', 'CSS', 'JavaScript', 'jQuery', 'jsDeliver'],
-        link: 'https://demohsc.glitch.me/',
+        link: 'https://myexample.glitch.me/',
     },
     {
         title: 'Hosted OpenVPN Access Server',
